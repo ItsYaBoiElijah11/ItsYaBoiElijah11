@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="ItsYaBoiElijah11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Controlfreak707&show_icons=true&hide_border=true" />
+<img align="left" alt="ItsYaBoiElijah11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&show_icons=true&hide_border=true" />
 <img align="right" alt="ItsYaBoiElijah11 Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Controlfreak707&hide_border=true" />
 
 [discord]: https://dsc.bio/elijahsdev
