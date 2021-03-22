@@ -1,4 +1,4 @@
-## Hello world! Were Elijah's Development! 👋
+## Hello world! I'm ElijahsDev! 👋
 
 ### Connect with me:
 
@@ -27,9 +27,13 @@
 
 ---
 
+<img align="left" alt="ItsYaBoiElijah11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&show_icons=true&hide_border=true" />
+<img align="right" alt="ItsYaBoiElijah11 Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Controlfreak707&hide_border=true" />
 
-[discord]: https://discord.gg/Pm6Hh62yZV
+[discord]: https://dsc.bio/elijahsdev
+[spotify]: https://open.spotify.com/user/elirenteria10
 [reddit]: https://www.reddit.com/u/ElijahsDevelopment
+[steam]: https://steamcommunity.com/id/ElijahsDev/
 
 [visualstudiocode]: https://code.visualstudio.com/
 [unity]: https://unity.com/
