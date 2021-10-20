@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Anodyne#8709| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
 [<img align="left" alt="elirenteria10 | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />][spotify]
-[<img align="left" alt="ElijahsDevelopment | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
+[<img align="left" alt="ElijahsDev | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
 [<img align="left" alt="ElijahsDev | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/steam.svg" />][steam]
 
 <br />
@@ -32,7 +32,7 @@
 
 [discord]: https://dsc.bio/elijahsdev
 [spotify]: https://open.spotify.com/user/elirenteria10
-[reddit]: https://www.reddit.com/u/ElijahsDevelopment
+[reddit]: https://www.reddit.com/user/Putrid-Net7852/
 [steam]: https://steamcommunity.com/id/ElijahsDev/
 
 [visualstudiocode]: https://code.visualstudio.com/
