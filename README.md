@@ -27,8 +27,10 @@
 
 ---
 
-<img align="left" alt="ItsYaBoiElijah11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&show_icons=true&hide_border=true" />
-<img align="right" alt="ItsYaBoiElijah11 Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYaBoiElijah11&hide_border=true" />
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=4169e1&title_color=fff&text_color=fff" draggable="false">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYaBoiElijah11&text_size=1000px&card_width=495px&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=4169e1&title_color=fff&text_color=fff" draggable="false">
+</center>
 
 [discord]: https://dsc.bio/elijahsdev
 [spotify]: https://open.spotify.com/user/elirenteria10
