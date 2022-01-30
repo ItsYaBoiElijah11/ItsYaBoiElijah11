@@ -1,45 +1,21 @@
-## Hello world! I'm ElijahsDev! 👋
+# 💫About Me :
+Good to see you here, I'm Elijah. A website/discord bot developer.
 
-### Connect with me:
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/auNcRseY9h) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mr_sirmacaroni) 
 
-[<img align="left" alt="Anodyne#8709| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
-[<img align="left" alt="elirenteria10 | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />][spotify]
-[<img align="left" alt="ElijahsDev | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
-[<img align="left" alt="ElijahsDev | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/steam.svg" />][steam]
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ItsYaBoiElijah11&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYaBoiElijah11&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<br />
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ItsYaBoiElijah11&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-
-<br />
-<br />
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsYaBoiElijah11&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=4169e1&title_color=fff&text_color=fff" draggable="false">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYaBoiElijah11&text_size=1000px&card_width=495px&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=4169e1&title_color=fff&text_color=fff" draggable="false">
-</center>
-
-[discord]: https://dsc.bio/elijahsdev
-[spotify]: https://open.spotify.com/user/elirenteria10
-[reddit]: https://www.reddit.com/user/Putrid-Net7852/
-[steam]: https://steamcommunity.com/id/ElijahsDev/
-
-[visualstudiocode]: https://code.visualstudio.com/
-[unity]: https://unity.com/
-[github]: https://github.com/
-[git]: https://git-scm.com/
-[sass]: https://sass-lang.com/
-[node]: https://nodejs.org/en/
+![](https://komarev.com/ghpvc/?username=ItsYaBoiElijah11&label=Visitors+Count&color=brightgreen)
